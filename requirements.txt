@@ -4,7 +4,6 @@ numpy
 ipython
 matplotlib
 seaborn
-Flask
-Gunicorn
+gunicorn
+flask
 joblib
-os
